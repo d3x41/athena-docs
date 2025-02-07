@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^5.5.4",
-    "@astrojs/starlight": "^0.29.2",
+    "@astrojs/starlight": "^0.31.1",
     "@astrojs/starlight-tailwind": "^2.0.3",
     "@astrojs/tailwind": "^5.1.2",
     "@fontsource/inter": "^5.1.0",
